@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 19 Sep 2026 05:12:21 +0000
+MD5Sum:
+ 8beb0c3eb7ae30e507775e64c2e75eec               38 Release
+ 0cf5ba145461704571f86c077b11a1bd              579 main/binary-amd64/Packages
+ 238cf3ccd28f34dd1a26dddfeb756f7d              437 main/binary-amd64/Packages.gz
+SHA1:
+ c31e47b32355e24115c2629c0f84c226b47a1487               38 Release
+ 0b6d4407f51aaee99d1ea272499ea5519a86cb75              579 main/binary-amd64/Packages
+ 0aa52726a2da11a995d40d42490885f812f268a5              437 main/binary-amd64/Packages.gz
+SHA256:
+ 61beed569b3951ed3346dd468623080ccf6e6fc4ce81e8b7c4c0034e3b09f7ee               38 Release
+ f92a57c927acc9b5bbc7228dbc5884b2923ae030e8351d9353df4a0071932af6              579 main/binary-amd64/Packages
+ 861899eff7a721d15a18de474f33323c72a973923f4a8565b7f954bbf367e946              437 main/binary-amd64/Packages.gz
+SHA512:
+ 3d62b263a832bd995bfdd845a0c517bde3b074e50201e6164855caf6d37d23ef647ea69fdf043daa218188761f0bd8311d63ed89bd8b9102c9b6c56fb384cee4               38 Release
+ d4ca747d5cc1e583006c678e9f2461341d7046e396fbb3ffe6ab9a14bf33e6347db61622a32d3b320a96237a51b0f45478f025510b90e4460755bb76a4231978              579 main/binary-amd64/Packages
+ 388f1dd9d00c511914842d411478e95989f86fc51340ba912acd15359f048d0128d66780edd89ba7d539c3e3259d2f3df2d3216ad037048e7a5a4c4493cdadb9              437 main/binary-amd64/Packages.gz
+Origin: Wagonbox
+Label: Wagonbox
+Suite: trixie
+Codename: trixie
+Architectures: amd64
+Components: main
+Description: Wagonbox APT Repository for trixie
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEZ9XG/5o+uY6kuEH58Gbc160Z4p4FAmquM/kACgkQ8Gbc160Z
+4p49nw/+PlREZfD1QYSWfiW9epNKCfIzltxVK7aXFOLpoku+efzc5BGFZUJ5tGfe
+JyrysLH1tl68e65wcR8S6SJSLpBy0vl24ppbjyQBF90CdE683VtL7g7by9UyROVI
+7F7FcJI3U4foR2cZlBj2hIzsi1oI5ftlaO0M5kXx94+vUHXLFlDKJg1SLA/pyii3
+zbN2yMomdPj0RrY9X5svkEAFA5yy20g1vkfJO4pHet12r6o+bBjTsREMixCahM6Z
+HbTEz7RwhAtC2ri/Cj//ICsYYQZtwgLxQKQWOC+H5g81/PCtBdWE1uEyPJSAVru8
+xGiTRub7Ldn0/eGv7MpC+ZAqJ1sTdJPDz5bGIqyzooSLBPK8RgjroD9kPudemHXG
+Bbfve7AtVfC+6j2Da4k2tJDPHVaZ7/U8lTPyYxc0Q+PLrbnX70BIS/5fxNiP4eUS
+eWnjUGX9m5HNzrNITrpb5bE1X9RlRDQA/J40cqUl93Ek3DJ8IBE9+riQTy5PXVNO
+x2n21PMcSHVwdP/LcAxX9T4b9NRaLguGh/reAO0lQSOr146yxK3NwgihEWaAQTjp
+fSOyWemuTQb8nT2wxSJtMW+xbxi3CHUMV34ymk8Hwyp6g5xUKwEmFPfMQFqEhNFZ
+ZTCiR3GnJHBQ/K/eMbvzc/WNzI2aKs9R+/jbo+behA0VtlSPO9g=
+=Z2nc
+-----END PGP SIGNATURE-----
