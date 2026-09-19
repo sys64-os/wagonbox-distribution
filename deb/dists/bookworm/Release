@@ -1,24 +1,19 @@
-Date: Sat, 19 Sep 2026 05:12:21 +0000
+Date: Sat, 19 Sep 2026 07:10:14 +0000
 MD5Sum:
- 8beb0c3eb7ae30e507775e64c2e75eec               38 Release
- e58ace7f016dcb2d34ecc9e1980f60e6              585 main/binary-amd64/Packages
- 149b827bf4bb87be6f278aed66521205              441 main/binary-amd64/Packages.gz
+ 4bb5dddd54a716452ebca58e39981342               38 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ cd03684e89b98eee62ebb14f7669e1e4               29 main/binary-amd64/Packages.gz
 SHA1:
- c31e47b32355e24115c2629c0f84c226b47a1487               38 Release
- 7adbffb520a04ea77ea5675baae37e8af0471154              585 main/binary-amd64/Packages
- 54e66cf3d9dd1c346a2393b07e19bcec3cc712ea              441 main/binary-amd64/Packages.gz
+ 4d20e94a69df0a05a297c1d09342602358cd7992               38 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ f30082bed1c8744f5c49d647e66242f3ec5ccde8               29 main/binary-amd64/Packages.gz
 SHA256:
- 61beed569b3951ed3346dd468623080ccf6e6fc4ce81e8b7c4c0034e3b09f7ee               38 Release
- 938be2817ea244466f530c929e9db1e0c16090659acc0da971a9d3606df8de2b              585 main/binary-amd64/Packages
- d1e28ee643fd873b4c3f9160674873601c53c5887bfcd580b428e4555ab3cc68              441 main/binary-amd64/Packages.gz
+ 39812c24a9446dfe81394fd02e58c8e3f8816f5f2dd4d3317f8065b09ebdab1e               38 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 8de76b8dd41924d847b05c6997be36372751e38c09785bfdede3c2e758520804               29 main/binary-amd64/Packages.gz
 SHA512:
- 3d62b263a832bd995bfdd845a0c517bde3b074e50201e6164855caf6d37d23ef647ea69fdf043daa218188761f0bd8311d63ed89bd8b9102c9b6c56fb384cee4               38 Release
- 137027d6d8349835b29ae9a3bc385365b9d51cb9863e0a7f75878c4f6df0e3a1951f188a11a5b281d40ec326e47cac4d3a9bacc0df482f00ebea9ccd27240589              585 main/binary-amd64/Packages
- 3829647a994bafe1d61ffc161ea65cb4cc346bcba73c9b239c1098eec226032355cc5a29319080fe37a2b5e3dba53bfaa8141fb549e3ceae18eb1f9073293164              441 main/binary-amd64/Packages.gz
+ 5477ea0aba5da57efccba5c960b9186438cd2d704fe2d7b566347be5bf29604bc5bc520d59d5a599619d7a8c28e805f92885a794ee829b65538a3ec3b2d4768f               38 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ fc8338b7fdf41e18aacbebc9216df8b02ff9a3e668afe16d638e5d6c3c657cac8343e6e8714a1ac730c19b12a5233e420dc0876fd7e4db0c26cba3b59aa28149               29 main/binary-amd64/Packages.gz
 Origin: Wagonbox
-Label: Wagonbox
-Suite: bookworm
 Codename: bookworm
-Architectures: amd64
-Components: main
-Description: Wagonbox APT Repository for bookworm

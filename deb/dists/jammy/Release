@@ -1,24 +1,19 @@
-Date: Sat, 19 Sep 2026 05:12:22 +0000
+Date: Sat, 19 Sep 2026 07:10:14 +0000
 MD5Sum:
- 0c2fbfe52b881235dd5acfaab898df72               38 Release
- dfc2ddb7db7b8196a6fa72b154feb9ba              575 main/binary-amd64/Packages
- 3d33a1d20a66fb5899c1dfec87e2ab80              438 main/binary-amd64/Packages.gz
+ 4bb5dddd54a716452ebca58e39981342               38 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ cd03684e89b98eee62ebb14f7669e1e4               29 main/binary-amd64/Packages.gz
 SHA1:
- a0733d410aa42a5c3c11572c79e2399e0ea54736               38 Release
- 9b2319e1cf5bc3fae256bcc65afb5fb2e8632cbe              575 main/binary-amd64/Packages
- 3a306a5f0cccffb9d2246d3042f950c4720e1cb2              438 main/binary-amd64/Packages.gz
+ 4d20e94a69df0a05a297c1d09342602358cd7992               38 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ f30082bed1c8744f5c49d647e66242f3ec5ccde8               29 main/binary-amd64/Packages.gz
 SHA256:
- b58cceb89f8585a489895f65550df7b84f1f300faf38a463a4e4a780644ad641               38 Release
- 7883aed09e72587b1967b6b1f2df4f0fb1ca4ab8e1c5b993c214250b339859ad              575 main/binary-amd64/Packages
- 79a8c3c535e6156bd8e477bfb9a6f1a317fbaaa7675f1256967b9e5d9feb2643              438 main/binary-amd64/Packages.gz
+ 39812c24a9446dfe81394fd02e58c8e3f8816f5f2dd4d3317f8065b09ebdab1e               38 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 8de76b8dd41924d847b05c6997be36372751e38c09785bfdede3c2e758520804               29 main/binary-amd64/Packages.gz
 SHA512:
- 82d1867ecafcaca5813fde6de8d5998fe5495fffc672aa65d8be8c836d9e931b2458a6c39dc9d6d626db63285a8b7cb1837c3457fdf1edee7c4579f073509937               38 Release
- edc83580ab61835573cfba9f2f6ab94d607de220c4aa4cfa37489053029f61d79d6724b602f05103974697a1d4d1267a3a6baf1f1719b4f4aa3a89773223c8db              575 main/binary-amd64/Packages
- 821758901a29d9ff59c413cca5faa55d64d62b11fc487547a10c7f5c620dbef4837a370def1c548c8b905b8db9e46f979499991c00f16487564f26462ff0df82              438 main/binary-amd64/Packages.gz
+ 5477ea0aba5da57efccba5c960b9186438cd2d704fe2d7b566347be5bf29604bc5bc520d59d5a599619d7a8c28e805f92885a794ee829b65538a3ec3b2d4768f               38 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ fc8338b7fdf41e18aacbebc9216df8b02ff9a3e668afe16d638e5d6c3c657cac8343e6e8714a1ac730c19b12a5233e420dc0876fd7e4db0c26cba3b59aa28149               29 main/binary-amd64/Packages.gz
 Origin: Wagonbox
-Label: Wagonbox
-Suite: jammy
 Codename: jammy
-Architectures: amd64
-Components: main
-Description: Wagonbox APT Repository for jammy
