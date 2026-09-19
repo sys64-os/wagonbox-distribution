@@ -1,0 +1,18 @@
+Package: wagonbox-core
+Version: 1.0.0
+Architecture: amd64
+Maintainer: sys64 <sys64@wagonbox.local>
+Installed-Size: 169505
+Depends: openssl (>= 3.0), libpam0g, libsqlite3-0, systemd
+Filename: pool/main/w/wagonbox-core_1.0.0_bookworm_amd64.deb
+Size: 58154386
+MD5sum: 3070a5cda6325c58f65fc5ca9336344f
+SHA1: b7aba345da51a6fa9df2f7173430dcd8d8d7f149
+SHA256: a19b3fd79369b4a0f499151825a19e3932a021fe3ba84b613e6397b3cbb39a65
+Section: default
+Priority: optional
+Homepage: https://github.com/sys64-os/wagonbox
+Description: WagonBox Core (Debian 12 bookworm)
+License: MIT
+Vendor: none
+

@@ -1,0 +1,8 @@
+Origin: WagonBox
+Label: WagonBox Repository
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: WagonBox APT Repository for Debian/Ubuntu
+Date: Thu, 17 Sep 2026 16:49:37 +0000

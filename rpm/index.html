@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index of /wagonbox-distribution/rpm/</title>
+    <style>
+        body { font-family: monospace; background: #121212; color: #00ff00; padding: 20px; }
+        h1 { color: #ffffff; border-bottom: 1px solid #333; padding-bottom: 10px; }
+        ul { list-style: none; padding: 0; }
+        li { padding: 5px 0; border-bottom: 1px dashed #333; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .size { color: #f1c40f; float: right; }
+    </style>
+</head>
+<body>
+    <h1>Index of /wagonbox-distribution/rpm/</h1>
+    <ul id="file-list">
+        <li>Loading RPM repository files...</li>
+    </ul>
+
+    <script>
+        const owner = "sys64-os";
+        const repo = "wagonbox-distribution";
+        const path = "rpm";
+
+        async function fetchRepoContents() {
+            const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
+            const listEl = document.getElementById("file-list");
+            
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error("Gagal mengambil data RPM dari GitHub");
+                
+                const files = await response.json();
+                listEl.innerHTML = `<li><a href="../">[parent directory]</a></li>`;
+
+                files.forEach(file => {
+                    const sizeText = file.size ? ` <span class="size">${(file.size / 1024 / 1024).toFixed(2)} MB</span>` : ' <span class="size">[DIR]</span>';
+                    const downloadUrl = file.download_url || file.html_url;
+                    
+                    listEl.innerHTML += `
+                        <li>
+                            <a href="${downloadUrl}" target="_blank">${file.name}</a>
+                            ${sizeText}
+                        </li>
+                    `;
+                });
+            } catch (error) {
+                listEl.innerHTML = `<li>Error: ${error.message}</li>`;
+            }
+        }
+
+        fetchRepoContents();
+    </script>
+</body>
+</html>
