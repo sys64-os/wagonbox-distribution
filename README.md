@@ -65,4 +65,11 @@ bash scripts/generate-metadata.sh
 
 ## GPG Signing
 
-Simpan private key di repo secret `GPG_PRIVATE_KEY` (armored). Workflow akan sign `Release` → `InRelease` + `Release.gpg`. Public key ada di `keys/wagonbox-archive-keyring.gpg`.
+Key aktif: **RSA4096 `AE04CBED318B0A886CBC879C0DCAAC78E02EC2EC`** (`sys64-os <wespoker89@gmail.com>`, subkey `F066DCD7AD19E29E`), public key di `keys/wagonbox-archive-keyring.gpg` (+ `.asc`). Semua `dists` sudah di-sign lokal (`InRelease` + `Release.gpg`).
+
+> **Status:** Repo ini **belum di-push ke GitHub** — masih lokal saja. Setelah push, setup Pages & signing:
+> 1. Buat repo GitHub `wagonbox-distribution` (public), `git push -u origin main`.
+> 2. **Pages:** Settings → Pages → Build and deployment → Source: **GitHub Actions**.
+> 3. **Signing CI:** Settings → Secrets → Actions → New secret `GPG_PRIVATE_KEY` — isi dengan `gpg --export-secret-keys --armor AE04CBED318B0A886CBC879C0DCAAC78E02EC2EC`. Workflow `.github/workflows/pages.yml` akan re-sign `Release` tiap push.
+
+Verifikasi lokal: `gpg --show-keys keys/wagonbox-archive-keyring.gpg` dan `gpg --verify deb/dists/bookworm/InRelease`.
