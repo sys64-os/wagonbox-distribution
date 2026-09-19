@@ -1,0 +1,18 @@
+Package: wagonbox-core
+Version: 1.0.0
+Architecture: amd64
+Maintainer: sys64 <sys64@wagonbox.local>
+Installed-Size: 169505
+Depends: openssl (>= 3.0.10), libpam0g, network-manager
+Filename: pool/noble/main/w/wagonbox-core_1.0.0_noble_amd64.deb
+Size: 58151556
+MD5sum: 1cc330009c00b720bd5199df168fcc44
+SHA1: 4e7e02757ab40038683fc83ad675245ccf128efb
+SHA256: 0d7329091140d60994f881a291ca789ee5769d04510ad9b68019d70d04bca6c5
+Section: default
+Priority: optional
+Homepage: https://github.com/sys64-os/wagonbox
+Description: WagonBox Core (Ubuntu 24.04 noble)
+License: MIT
+Vendor: none
+

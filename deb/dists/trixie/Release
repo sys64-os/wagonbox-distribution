@@ -1,0 +1,24 @@
+Date: Sat, 19 Sep 2026 05:12:21 +0000
+MD5Sum:
+ 8beb0c3eb7ae30e507775e64c2e75eec               38 Release
+ 0cf5ba145461704571f86c077b11a1bd              579 main/binary-amd64/Packages
+ 238cf3ccd28f34dd1a26dddfeb756f7d              437 main/binary-amd64/Packages.gz
+SHA1:
+ c31e47b32355e24115c2629c0f84c226b47a1487               38 Release
+ 0b6d4407f51aaee99d1ea272499ea5519a86cb75              579 main/binary-amd64/Packages
+ 0aa52726a2da11a995d40d42490885f812f268a5              437 main/binary-amd64/Packages.gz
+SHA256:
+ 61beed569b3951ed3346dd468623080ccf6e6fc4ce81e8b7c4c0034e3b09f7ee               38 Release
+ f92a57c927acc9b5bbc7228dbc5884b2923ae030e8351d9353df4a0071932af6              579 main/binary-amd64/Packages
+ 861899eff7a721d15a18de474f33323c72a973923f4a8565b7f954bbf367e946              437 main/binary-amd64/Packages.gz
+SHA512:
+ 3d62b263a832bd995bfdd845a0c517bde3b074e50201e6164855caf6d37d23ef647ea69fdf043daa218188761f0bd8311d63ed89bd8b9102c9b6c56fb384cee4               38 Release
+ d4ca747d5cc1e583006c678e9f2461341d7046e396fbb3ffe6ab9a14bf33e6347db61622a32d3b320a96237a51b0f45478f025510b90e4460755bb76a4231978              579 main/binary-amd64/Packages
+ 388f1dd9d00c511914842d411478e95989f86fc51340ba912acd15359f048d0128d66780edd89ba7d539c3e3259d2f3df2d3216ad037048e7a5a4c4493cdadb9              437 main/binary-amd64/Packages.gz
+Origin: Wagonbox
+Label: Wagonbox
+Suite: trixie
+Codename: trixie
+Architectures: amd64
+Components: main
+Description: Wagonbox APT Repository for trixie

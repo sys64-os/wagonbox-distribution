@@ -1,0 +1,24 @@
+Date: Sat, 19 Sep 2026 05:12:22 +0000
+MD5Sum:
+ 0c2fbfe52b881235dd5acfaab898df72               38 Release
+ dfc2ddb7db7b8196a6fa72b154feb9ba              575 main/binary-amd64/Packages
+ 3d33a1d20a66fb5899c1dfec87e2ab80              438 main/binary-amd64/Packages.gz
+SHA1:
+ a0733d410aa42a5c3c11572c79e2399e0ea54736               38 Release
+ 9b2319e1cf5bc3fae256bcc65afb5fb2e8632cbe              575 main/binary-amd64/Packages
+ 3a306a5f0cccffb9d2246d3042f950c4720e1cb2              438 main/binary-amd64/Packages.gz
+SHA256:
+ b58cceb89f8585a489895f65550df7b84f1f300faf38a463a4e4a780644ad641               38 Release
+ 7883aed09e72587b1967b6b1f2df4f0fb1ca4ab8e1c5b993c214250b339859ad              575 main/binary-amd64/Packages
+ 79a8c3c535e6156bd8e477bfb9a6f1a317fbaaa7675f1256967b9e5d9feb2643              438 main/binary-amd64/Packages.gz
+SHA512:
+ 82d1867ecafcaca5813fde6de8d5998fe5495fffc672aa65d8be8c836d9e931b2458a6c39dc9d6d626db63285a8b7cb1837c3457fdf1edee7c4579f073509937               38 Release
+ edc83580ab61835573cfba9f2f6ab94d607de220c4aa4cfa37489053029f61d79d6724b602f05103974697a1d4d1267a3a6baf1f1719b4f4aa3a89773223c8db              575 main/binary-amd64/Packages
+ 821758901a29d9ff59c413cca5faa55d64d62b11fc487547a10c7f5c620dbef4837a370def1c548c8b905b8db9e46f979499991c00f16487564f26462ff0df82              438 main/binary-amd64/Packages.gz
+Origin: Wagonbox
+Label: Wagonbox
+Suite: jammy
+Codename: jammy
+Architectures: amd64
+Components: main
+Description: Wagonbox APT Repository for jammy

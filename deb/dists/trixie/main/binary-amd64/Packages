@@ -1,0 +1,18 @@
+Package: wagonbox-core
+Version: 1.0.0
+Architecture: amd64
+Maintainer: sys64 <sys64@wagonbox.local>
+Installed-Size: 169505
+Depends: openssl (>= 3.1), libpam0g, libsqlite3-0, systemd
+Filename: pool/trixie/main/w/wagonbox-core_1.0.0_trixie_amd64.deb
+Size: 58152100
+MD5sum: 119f07dfb632857f00a897151f25f897
+SHA1: 1fff60bdb9b3ff8b0f85f6833f15f41b848839c3
+SHA256: 138d5a53bcaccbaa520347ba2315f0dceac129aba71ab0c8d9b4f9d6de4de4b1
+Section: default
+Priority: optional
+Homepage: https://github.com/sys64-os/wagonbox
+Description: WagonBox Core (Debian 13 trixie)
+License: MIT
+Vendor: none
+

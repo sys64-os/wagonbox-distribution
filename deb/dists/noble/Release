@@ -1,0 +1,24 @@
+Date: Sat, 19 Sep 2026 05:12:22 +0000
+MD5Sum:
+ 0c2fbfe52b881235dd5acfaab898df72               38 Release
+ 60a3261b067b9dc83d8bcefb3a50bc43              576 main/binary-amd64/Packages
+ d2ee542d1a5b6fa503c445883f7539a0              441 main/binary-amd64/Packages.gz
+SHA1:
+ a0733d410aa42a5c3c11572c79e2399e0ea54736               38 Release
+ 8023df18e18af936906ea8f4e377f0789ce91efd              576 main/binary-amd64/Packages
+ 95de48a428892838d8f3c8ee74b68e4aa038c460              441 main/binary-amd64/Packages.gz
+SHA256:
+ b58cceb89f8585a489895f65550df7b84f1f300faf38a463a4e4a780644ad641               38 Release
+ b14bf3d8ca5ae40f9ed880fb4ae6c3d3a7bdd521b28b2eea9467fb719fcb6c06              576 main/binary-amd64/Packages
+ 1ee1ff1d4248f0a26d1715a74cebce30dd2fef86152fc3beb1422800580f2d98              441 main/binary-amd64/Packages.gz
+SHA512:
+ 82d1867ecafcaca5813fde6de8d5998fe5495fffc672aa65d8be8c836d9e931b2458a6c39dc9d6d626db63285a8b7cb1837c3457fdf1edee7c4579f073509937               38 Release
+ c811a0559bae21468ee7a9a7c9cb66469b8015e6e26af033e1593cc3468879434b699c2438bef8a8e18adedc7cd5612a38d048f0b61b97bf66b3e272d620cdc4              576 main/binary-amd64/Packages
+ e0221c8d641ec974226586405483f6e388b857855fcf92a0ac74bb213ffbc6c712c14c7401be844535cfd3831b4b4feed18e7f61ca72ae879a4d24c4b1db9fc5              441 main/binary-amd64/Packages.gz
+Origin: Wagonbox
+Label: Wagonbox
+Suite: noble
+Codename: noble
+Architectures: amd64
+Components: main
+Description: Wagonbox APT Repository for noble
