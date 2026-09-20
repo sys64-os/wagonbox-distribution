@@ -55,15 +55,3 @@ sudo dnf config-manager --add-repo https://sys64-os.github.io/wagonbox-distribut
 
 sudo dnf install wagonbox-core
 ```
-
-## GPG Key
-
-**RSA4096 `AE04CBED318B0A886CBC879C0DCAAC78E02EC2EC`** (`sys64-os <wespoker89@gmail.com>`), subkey `F066DCD7AD19E29E`.
-
-Public key: `keys/wagonbox-archive-keyring.gpg` (binary) / `.asc` (armored). Semua `dists` di-sign (`InRelease` + `Release.gpg`).
-
-Verifikasi: `gpg --show-keys keys/wagonbox-archive-keyring.gpg`
-
-## License
-
-Packages are distributed under their respective licenses. Core packages: MIT License.
